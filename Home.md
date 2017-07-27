@@ -6,9 +6,9 @@
 
 ## Introduction
 
-Commands are generally sorted by category, [please look them up](categories).
+Commands are generally sorted by category, [please look them up](Categories).
 
-You might need some basis on the way vim works to understand specific instructions, please look-up [the basics](basics) if you haven't done so already.
+You might need some basis on the way vim works to understand specific instructions, please look-up [the basics](Basics) if you haven't done so already.
 
 *To those here because they are stuck in vim*
 
