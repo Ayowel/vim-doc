@@ -37,7 +37,7 @@ The edit mode has two sub-modes amongst which a user can switch by pressing 'ins
 
 ## Delete
 
-[Go-to commands](Search#go-to)
+[Go-to commands](shortcuts_search#go-to)
 
     dd        : Delete the current line and copy it to the clipboard
     (\n)d(\*) : Deletes characters traveled by using a go-to command. The go-to uses n as (\n) parameter if possible.
