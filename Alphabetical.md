@@ -2,38 +2,38 @@
 
 ## Shorcuts
 
-* [~](shortcuts/Editing#others)
-* [\(\)](shortcuts/Search#go-to)
-* [\[\]](shortcuts/Search#go-to)
-* [\{\}](shortcuts/Search#go-to)
-* [- +](shortcuts/Search#go-to)
-* [\^ | _ $](shortcuts/Search#go-to)
+* [~](shortcuts_edit#others)
+* [\(\)](shortcuts_search#go-to)
+* [\[\]](shortcuts_search#go-to)
+* [\{\}](shortcuts_search#go-to)
+* [- +](shortcuts_search#go-to)
+* [\^ | _ $](shortcuts_search#go-to)
 
-* [a](shortcuts/Editing#enter-insert-mode)
-* [b](shortcuts/Search#go-to)
-* [c](shortcuts/Editind#delete)
-* [d](shortcuts/Editing#delete)
-* [e](shortcuts/Search#go-to)
+* [a](shortcuts_edit#enter-insert-mode)
+* [b](shortcuts_search#go-to)
+* [c](shortcuts_Editind#delete)
+* [d](shortcuts_edit#delete)
+* [e](shortcuts_search#go-to)
 * f
-* [g](shortcuts/Search#go-to)
+* [g](shortcuts_search#go-to)
 * h
-* [i](shortcuts/Editing#enter-insert-mode)
-* [j](shortcuts/Search#go-to)
-* [k](shortcuts/Search#go-to)
-* [l](shortcuts/Search#go-to)
+* [i](shortcuts_edit#enter-insert-mode)
+* [j](shortcuts_search#go-to)
+* [k](shortcuts_search#go-to)
+* [l](shortcuts_search#go-to)
 * m
-* [n](shortcuts/Search#search)
-* [o](shortcuts/Editing#enter-insert-mode)
-* [p](shortcuts/Editing#quick-insert)
+* [n](shortcuts_search#search)
+* [o](shortcuts_edit#enter-insert-mode)
+* [p](shortcuts_edit#quick-insert)
 * q
-* [r](shortcuts/Editing#quick-replace)
-* [s](shortcuts/Editing#enter-insert-mode)
-* [t](shortcuts/Search#search)
-* [u](shortcuts/Editing#others)
-* [v](shortcuts/Search#selection)
-* [w](shortcuts/Search#go-to)
-* [x](shortcuts/Editing#delete)
-* [y](shortcuts/Search#selection)
+* [r](shortcuts_edit#quick-replace)
+* [s](shortcuts_edit#enter-insert-mode)
+* [t](shortcuts_search#search)
+* [u](shortcuts_edit#others)
+* [v](shortcuts_search#selection)
+* [w](shortcuts_search#go-to)
+* [x](shortcuts_edit#delete)
+* [y](shortcuts_search#selection)
 * z
 
 * A
@@ -42,7 +42,7 @@
 * D
 * E
 * F
-* [G](shortcuts/Search#go-to)
+* [G](shortcuts_search#go-to)
 * H
 * I
 * J

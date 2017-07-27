@@ -1,4 +1,4 @@
-# Editing
+# edit
 
 The edit mode has two sub-modes amongst which a user can switch by pressing 'insert':
 

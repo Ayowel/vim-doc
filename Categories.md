@@ -8,7 +8,7 @@ Notation:
 
 Vim commands and utilities are sorted here by category. Look them up to quickly find what you're looking for.
 
-* Edit text [via shortcuts](shortcuts/Editing)
-* Search, select and displacements in text [via shortcuts](#research)
-* Others
+* Manage Files [via commands](commands_edit)
+* Edit text [via shortcuts](shortcuts_edit)
+* Search, select and displacements in text [via shortcuts](shortcuts_search) and [via commands](commands_search)
 

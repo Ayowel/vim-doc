@@ -38,7 +38,7 @@ While using vim, you'll mainly encounter 3 modes:
     * This is the default mode
     * Can be reached from both others by pressing 'esc'
     * Allows the user to move in the text via the arrow keys
-* Editing
+* edit
     * Recognisable by the fact that '-- INSERTION --' is written at the bottom of the command line
     * Allows the user to type in the text as in any other editor
     * Get in this mode by pressing 'i'

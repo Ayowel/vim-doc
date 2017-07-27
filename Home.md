@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Commands are generally sorted by category, [please look them up](Categories).
+Commands and shortcuts are sorted by [category](Categories) and can be accessed [alphabetically](Alphabetical).
 
 You might need some basis on the way vim works to understand specific instructions, please look-up [the basics](Basics) if you haven't done so already.
 
